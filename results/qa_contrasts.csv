@@ -1,0 +1,19 @@
+contrast,lang,diff_pts,lo,hi
+Conformer vs whisper-small (English prompt),all,11.5,4.0,19.0
+Conformer vs whisper-small (English prompt),hi,15.0,4.0,26.0
+Conformer vs whisper-small (English prompt),ta,8.0,-3.0,19.0
+Conformer vs whisper-small (native prompt),all,9.5,2.5,16.5
+Conformer vs whisper-small (native prompt),hi,18.0,8.0,28.000000000000004
+Conformer vs whisper-small (native prompt),ta,1.0,-8.0,10.025000000000093
+Turbo vs whisper-small (English prompt),all,12.5,6.5,18.5
+Turbo vs whisper-small (English prompt),hi,18.0,10.0,27.0
+Turbo vs whisper-small (English prompt),ta,7.000000000000001,-2.0,16.0
+English prompt vs native prompt (Conformer),all,5.5,-3.0,14.499999999999998
+English prompt vs native prompt (Conformer),hi,3.0,-9.0,15.0
+English prompt vs native prompt (Conformer),ta,8.0,-4.0,20.0
+English prompt vs native prompt (gold text),all,6.0,-2.5,14.499999999999998
+English prompt vs native prompt (gold text),hi,6.0,-5.0,18.0
+English prompt vs native prompt (gold text),ta,6.0,-5.0,18.0
+Gold vs Conformer (English prompt),all,4.0,-1.0,9.0
+Gold vs Conformer (English prompt),hi,5.0,-2.0,13.0
+Gold vs Conformer (English prompt),ta,3.0,-3.0,10.0
